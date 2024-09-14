@@ -14,3 +14,4 @@ Clone or download the repository.
 Open the index.html file in any modern web browser to view the website.
 
 Project Screenshot:
+![Project Overview](./overview.png)
